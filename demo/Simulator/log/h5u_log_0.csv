@@ -1,0 +1,1922 @@
+1761271991, 0x00000100,  0x00000001,[PowerOn]Power on!
+1761271991, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761271991, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761271991, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761271991, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761271991, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761271991, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761271991, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761271991, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761271991, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761271991, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761271991, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761271991, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761271991, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761271991, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761271991, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761271991, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761271991, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761271991, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761271991, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761271991, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761271991, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761271991, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761271991, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761271992, 0x00000100,  0x00000001,Power off (simu)!
+1761271992, 0x00000100,  0x00000001,[Powerdown]:Run switch to stop time: 0ms.
+1761271992, 0x00000100,  0x00000001,[Powerdown]:Variables data save begin.
+1761271992, 0x00000100,  0x00000001,[Powerdown]:Variables data save finished.
+1761272419, 0x00000100,  0x00000001,[monitor]login event:0  route:1504
+1761272419, 0x00000100,  0x00000001,[monitor]login event:1  route:1504
+1761272419, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761272419, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761272419, 0x00000100,  0x00000001,Download userprog.foid start.
+1761272419, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761272419, 0x00000100,  0x00000001,Download stprog.o start.
+1761272419, 0x00000100,  0x00000001,Download stprog.o finished.
+1761272419, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761272419, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761272419, 0x00000100,  0x00000001,Download symbol.sym start.
+1761272419, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761272419, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761272419, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761272419, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761272419, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761272419, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761272419, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761272419, 0x00000100,  0x00000001,Download modbus.foid start.
+1761272419, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761272420, 0x00000100,  0x00000001,Download canlink.foid start.
+1761272420, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761272420, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761272420, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761272420, 0x00000100,  0x00000001,Download ethip.foid start.
+1761272420, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761272420, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761272420, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761272420, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761272420, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761272420, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761272420, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761272420, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761272420, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761272420, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761272420, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761272420, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761272420, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761272420, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761272420, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761272420, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761272420, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761272420, 0x00000100,  0x00000001,[monitor]login event:2  route:1504
+1761272420, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761272420, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761272420, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761272420, 0x00000600,  0x00000001,EtherCAT:etc_first_updateconfig 
+1761272420, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761272420, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761272420, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761272420, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761272420, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761272420, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761272420, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761272420, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761272420, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761272420, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761272420, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761272420, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761272420, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761272420, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761272420, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761272420, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761272420, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761272420, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761272420, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761272420, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761272420, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761272420, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761272420, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761272420, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761272420, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761272420, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761272420, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761272420, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761272420, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761272420, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761272420, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761272420, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761272420, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761272420, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761272420, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761272420, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761272420, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761272420, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761272420, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761272420, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761272420, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761272420, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761272420, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761272420, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761272420, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761272420, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761272420, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761272420, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761272420, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761272420, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761272420, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761272420, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761272420, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761272420, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761272420, 0x00000000,  0x00000002,Warning 5080 at 262227(0x40053).
+1761272420, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272420, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761272457, 0x00000100,  0x00000001,[monitor]login event:0  route:1444
+1761272457, 0x00000100,  0x00000001,[monitor]login event:1  route:1444
+1761272458, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761272459, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761272459, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761272459, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761272459, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761272459, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761272459, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761272459, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761272459, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761272459, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761272459, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761272459, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761272459, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761272459, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761272459, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761272459, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761272459, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761272459, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761272459, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761272459, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761272459, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761272459, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761272459, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761272459, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761272459, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761272459, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761272459, 0x00000100,  0x00000001,Download userprog.foid start.
+1761272459, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761272459, 0x00000100,  0x00000001,Download stprog.o start.
+1761272459, 0x00000100,  0x00000001,Download stprog.o finished.
+1761272459, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761272459, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761272459, 0x00000100,  0x00000001,Download symbol.sym start.
+1761272459, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761272459, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761272459, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761272459, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761272459, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761272459, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761272459, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761272459, 0x00000100,  0x00000001,Download modbus.foid start.
+1761272459, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761272459, 0x00000100,  0x00000001,Download canlink.foid start.
+1761272459, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761272459, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761272459, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761272459, 0x00000100,  0x00000001,Download ethip.foid start.
+1761272459, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761272459, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761272459, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761272459, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761272459, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761272459, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761272459, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761272459, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761272459, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761272459, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761272459, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761272459, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761272459, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761272459, 0x00000000,  0x00000001,Clean current error records.
+1761272459, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761272459, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761272459, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761272459, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761272459, 0x00000100,  0x00000001,[monitor]login event:2  route:1444
+1761272460, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761272461, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761272461, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761272461, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761272461, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761272461, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761272461, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761272461, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761272461, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761272461, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761272461, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761272461, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761272461, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761272461, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761272461, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761272461, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761272461, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761272461, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761272461, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761272461, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761272461, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761272461, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761272461, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761272461, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761272461, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761272461, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761272461, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761272461, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761272461, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761272461, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761272461, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761272461, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761272461, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761272461, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761272461, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761272461, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761272461, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761272461, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761272461, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761272461, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761272461, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761272461, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761272461, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761272461, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761272461, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761272461, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761272461, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761272461, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761272461, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761272461, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761272461, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761272461, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761272461, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761272461, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761272461, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761272461, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761272461, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761272461, 0x00000000,  0x00000002,Warning 5080 at 262227(0x40053).
+1761272461, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272461, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761272466, 0x00000000,  0x00000002,Warning:5080 eliminated at 262227(0x40053).
+1761272466, 0x00000000,  0x00000002,Warning:5080 eliminated at 262228(0x40054).
+1761272473, 0x00000000,  0x00000002,Warning 5080 at 262227(0x40053).
+1761272473, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272473, 0x00000000,  0x00000002,Warning:5080 eliminated at 262227(0x40053).
+1761272473, 0x00000000,  0x00000002,Warning:5080 eliminated at 262228(0x40054).
+1761272475, 0x00000000,  0x00000002,Warning 5080 at 262227(0x40053).
+1761272475, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272475, 0x00000000,  0x00000002,Warning:5080 eliminated at 262227(0x40053).
+1761272475, 0x00000000,  0x00000002,Warning:5080 eliminated at 262228(0x40054).
+1761272476, 0x00000000,  0x00000002,Warning 5080 at 262227(0x40053).
+1761272476, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272476, 0x00000000,  0x00000002,Warning:5080 eliminated at 262227(0x40053).
+1761272476, 0x00000000,  0x00000002,Warning:5080 eliminated at 262228(0x40054).
+1761272477, 0x00000000,  0x00000002,Warning 5080 at 262227(0x40053).
+1761272477, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272477, 0x00000000,  0x00000002,Warning:5080 eliminated at 262227(0x40053).
+1761272477, 0x00000000,  0x00000002,Warning:5080 eliminated at 262228(0x40054).
+1761272487, 0x00000100,  0x00000001,[monitor]login event:0  route:1876
+1761272487, 0x00000100,  0x00000001,[monitor]login event:1  route:1876
+1761272487, 0x00000100,  0x00000001,userprog online LOG_IN!!!.
+1761272487, 0x00000100,  0x00000001,Upload symbol.sym start.
+1761272487, 0x00000100,  0x00000001,Upload symbol.sym finished.
+1761272488, 0x00000100,  0x00000001,Upload userprog.foid start.
+1761272488, 0x00000100,  0x00000001,Upload userprog.foid finished.
+1761272488, 0x00000100,  0x00000001,Upload symbol.sym start.
+1761272488, 0x00000100,  0x00000001,Upload symbol.sym finished.
+1761272489, 0x00000100,  0x00000001,Upload stuserprog.o start.
+1761272489, 0x00000100,  0x00000001,Upload stuserprog.o finished.
+1761272506, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761272506, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761272506, 0x00000100,  0x00000001,Download userprog.foid start.
+1761272506, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761272507, 0x00000100,  0x00000001,Download stprog.o start.
+1761272507, 0x00000100,  0x00000001,Download stprog.o finished.
+1761272507, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761272507, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761272507, 0x00000100,  0x00000001,Download symbol.sym start.
+1761272507, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761272507, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761272507, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761272507, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761272507, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761272507, 0x00000100,  0x00000001,userprog online modify TRIGGER!!!.
+1761272507, 0x00000100,  0x00000001,userprog online datafile is OK.
+1761272507, 0x00000100,  0x00000001,userprog online checked OK.
+1761272507, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 2.
+1761272507, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761272507, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761272507, 0x00000700,  0x00000001,Hook ol 1/1: EthIPScanner: update cip config ret 0
+1761272507, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 2.
+1761272507, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 2.
+1761272507, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 2.
+1761272937, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272937, 0x00000000,  0x00000002,Warning 5080 at 262229(0x40055).
+1761272937, 0x00000000,  0x00000002,Warning:5080 eliminated at 262228(0x40054).
+1761272937, 0x00000000,  0x00000002,Warning:5080 eliminated at 262229(0x40055).
+1761272938, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272938, 0x00000000,  0x00000002,Warning 5080 at 262229(0x40055).
+1761272938, 0x00000000,  0x00000002,Warning:5080 eliminated at 262228(0x40054).
+1761272938, 0x00000000,  0x00000002,Warning:5080 eliminated at 262229(0x40055).
+1761272939, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272939, 0x00000000,  0x00000002,Warning 5080 at 262229(0x40055).
+1761272939, 0x00000000,  0x00000002,Warning:5080 eliminated at 262228(0x40054).
+1761272939, 0x00000000,  0x00000002,Warning:5080 eliminated at 262229(0x40055).
+1761272941, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272941, 0x00000000,  0x00000002,Warning 5080 at 262229(0x40055).
+1761272941, 0x00000000,  0x00000002,Warning:5080 eliminated at 262228(0x40054).
+1761272941, 0x00000000,  0x00000002,Warning:5080 eliminated at 262229(0x40055).
+1761272943, 0x00000000,  0x00000002,Warning 5080 at 262228(0x40054).
+1761272943, 0x00000000,  0x00000002,Warning 5080 at 262229(0x40055).
+1761272943, 0x00000000,  0x00000002,Warning:5080 eliminated at 262228(0x40054).
+1761272943, 0x00000000,  0x00000002,Warning:5080 eliminated at 262229(0x40055).
+1761272976, 0x00000100,  0x00000001,userprog online LOG_OUT!!!.
+1761272976, 0x00000100,  0x00000001,[monitor]login event:2  route:1876
+1761273101, 0x00000100,  0x00000001,[monitor]login event:0  route:1852
+1761273101, 0x00000100,  0x00000001,[monitor]login event:1  route:1852
+1761273102, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761273102, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761273102, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761273102, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761273102, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761273102, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761273102, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761273102, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761273102, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761273102, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761273102, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761273102, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761273102, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761273102, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761273102, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761273102, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761273102, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761273102, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761273102, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761273102, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761273102, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761273102, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761273102, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761273102, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761273103, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761273103, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761273103, 0x00000100,  0x00000001,Download userprog.foid start.
+1761273103, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761273103, 0x00000100,  0x00000001,Download stprog.o start.
+1761273103, 0x00000100,  0x00000001,Download stprog.o finished.
+1761273103, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761273103, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761273103, 0x00000100,  0x00000001,Download symbol.sym start.
+1761273103, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761273103, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761273103, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761273103, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761273103, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761273103, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761273103, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761273103, 0x00000100,  0x00000001,Download modbus.foid start.
+1761273103, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761273103, 0x00000100,  0x00000001,Download canlink.foid start.
+1761273103, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761273103, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761273103, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761273103, 0x00000100,  0x00000001,Download ethip.foid start.
+1761273103, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761273103, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761273103, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761273103, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761273103, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761273103, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761273103, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761273103, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761273103, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761273103, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761273103, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761273103, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761273103, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761273103, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761273103, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761273103, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761273103, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761273103, 0x00000100,  0x00000001,[monitor]login event:2  route:1852
+1761273104, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761273104, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761273104, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761273104, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761273104, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761273104, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761273104, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761273104, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761273104, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761273104, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761273104, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761273104, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761273104, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761273104, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761273104, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761273104, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761273104, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761273104, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761273104, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761273104, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761273104, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761273104, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761273104, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761273104, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761273104, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761273104, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761273104, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761273104, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761273104, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761273104, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761273104, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761273104, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761273104, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761273104, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761273104, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761273104, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761273104, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761273104, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761273104, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761273104, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761273104, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761273104, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761273104, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761273104, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761273104, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761273104, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761273104, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761273104, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761273104, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761273104, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761273104, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761273104, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761273104, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761273104, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761273104, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761273104, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761273104, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761273104, 0x00000000,  0x00000002,Warning 5080 at 262229(0x40055).
+1761273104, 0x00000000,  0x00000002,Warning 5080 at 262230(0x40056).
+1761273104, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761273107, 0x00000000,  0x00000002,Warning:5080 eliminated at 262229(0x40055).
+1761273107, 0x00000000,  0x00000002,Warning:5080 eliminated at 262230(0x40056).
+1761273112, 0x00000100,  0x00000001,[monitor]login event:0  route:1880
+1761273112, 0x00000100,  0x00000001,[monitor]login event:1  route:1880
+1761273112, 0x00000100,  0x00000001,userprog online LOG_IN!!!.
+1761273112, 0x00000100,  0x00000001,Upload symbol.sym start.
+1761273112, 0x00000100,  0x00000001,Upload symbol.sym finished.
+1761273113, 0x00000100,  0x00000001,Upload userprog.foid start.
+1761273113, 0x00000100,  0x00000001,Upload userprog.foid finished.
+1761273113, 0x00000100,  0x00000001,Upload symbol.sym start.
+1761273113, 0x00000100,  0x00000001,Upload symbol.sym finished.
+1761273114, 0x00000100,  0x00000001,Upload stuserprog.o start.
+1761273114, 0x00000100,  0x00000001,Upload stuserprog.o finished.
+1761273124, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761273124, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761273124, 0x00000100,  0x00000001,Download userprog.foid start.
+1761273124, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761273124, 0x00000100,  0x00000001,Download stprog.o start.
+1761273124, 0x00000100,  0x00000001,Download stprog.o finished.
+1761273124, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761273124, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761273124, 0x00000100,  0x00000001,Download symbol.sym start.
+1761273124, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761273124, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761273124, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761273124, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761273124, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761273124, 0x00000100,  0x00000001,userprog online modify TRIGGER!!!.
+1761273124, 0x00000100,  0x00000001,userprog online datafile is OK.
+1761273124, 0x00000100,  0x00000001,userprog online checked OK.
+1761273124, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 2.
+1761273124, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761273124, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761273124, 0x00000700,  0x00000001,Hook ol 1/1: EthIPScanner: update cip config ret 0
+1761273124, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 2.
+1761273124, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 2.
+1761273124, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 2.
+1761273168, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761273168, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761273168, 0x00000100,  0x00000001,Download userprog.foid start.
+1761273168, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761273168, 0x00000100,  0x00000001,Download stprog.o start.
+1761273168, 0x00000100,  0x00000001,Download stprog.o finished.
+1761273168, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761273168, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761273168, 0x00000100,  0x00000001,Download symbol.sym start.
+1761273168, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761273168, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761273168, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761273168, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761273168, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761273168, 0x00000100,  0x00000001,userprog online modify TRIGGER!!!.
+1761273168, 0x00000100,  0x00000001,userprog online datafile is OK.
+1761273168, 0x00000100,  0x00000001,userprog online checked OK.
+1761273168, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 2.
+1761273168, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761273168, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761273168, 0x00000700,  0x00000001,Hook ol 1/1: EthIPScanner: update cip config ret 0
+1761273168, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 2.
+1761273168, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 2.
+1761273168, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 2.
+1761273190, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761273190, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761273190, 0x00000100,  0x00000001,Download userprog.foid start.
+1761273190, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761273190, 0x00000100,  0x00000001,Download stprog.o start.
+1761273190, 0x00000100,  0x00000001,Download stprog.o finished.
+1761273190, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761273190, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761273190, 0x00000100,  0x00000001,Download symbol.sym start.
+1761273190, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761273190, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761273190, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761273190, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761273190, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761273190, 0x00000100,  0x00000001,userprog online modify TRIGGER!!!.
+1761273190, 0x00000100,  0x00000001,userprog online datafile is OK.
+1761273190, 0x00000100,  0x00000001,userprog online checked OK.
+1761273190, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 2.
+1761273190, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761273190, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761273190, 0x00000700,  0x00000001,Hook ol 1/1: EthIPScanner: update cip config ret 0
+1761273190, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 2.
+1761273190, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 2.
+1761273190, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 2.
+1761273295, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761273295, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761273295, 0x00000100,  0x00000001,Download userprog.foid start.
+1761273295, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761273295, 0x00000100,  0x00000001,Download stprog.o start.
+1761273295, 0x00000100,  0x00000001,Download stprog.o finished.
+1761273295, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761273295, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761273295, 0x00000100,  0x00000001,Download symbol.sym start.
+1761273295, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761273295, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761273295, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761273295, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761273295, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761273295, 0x00000100,  0x00000001,userprog online modify TRIGGER!!!.
+1761273295, 0x00000100,  0x00000001,userprog online datafile is OK.
+1761273295, 0x00000100,  0x00000001,userprog online checked OK.
+1761273295, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 2.
+1761273295, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761273295, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761273295, 0x00000700,  0x00000001,Hook ol 1/1: EthIPScanner: update cip config ret 0
+1761273295, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 2.
+1761273295, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 2.
+1761273295, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 2.
+1761274054, 0x00000100,  0x00000001,userprog online LOG_OUT!!!.
+1761274054, 0x00000100,  0x00000001,[monitor]login event:2  route:1880
+1761274062, 0x00000100,  0x00000001,[monitor]login event:0  route:1836
+1761274062, 0x00000100,  0x00000001,[monitor]login event:1  route:1836
+1761274063, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761274063, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761274063, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761274063, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761274063, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761274063, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761274063, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761274063, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761274063, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761274063, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761274063, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761274063, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761274063, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761274063, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761274063, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761274063, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761274063, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761274063, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761274063, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761274063, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761274063, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761274063, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761274063, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761274063, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761274063, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761274063, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761274063, 0x00000100,  0x00000001,Download userprog.foid start.
+1761274063, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761274063, 0x00000100,  0x00000001,Download stprog.o start.
+1761274063, 0x00000100,  0x00000001,Download stprog.o finished.
+1761274064, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761274064, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761274064, 0x00000100,  0x00000001,Download symbol.sym start.
+1761274064, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761274064, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761274064, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761274064, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761274064, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761274064, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761274064, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761274064, 0x00000100,  0x00000001,Download modbus.foid start.
+1761274064, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761274064, 0x00000100,  0x00000001,Download canlink.foid start.
+1761274064, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761274064, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761274064, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761274064, 0x00000100,  0x00000001,Download ethip.foid start.
+1761274064, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761274064, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761274064, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761274064, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761274064, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761274064, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761274064, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761274064, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761274064, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761274064, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761274064, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761274064, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761274064, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761274064, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761274064, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761274064, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761274064, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761274064, 0x00000100,  0x00000001,[monitor]login event:2  route:1836
+1761274065, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761274065, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761274065, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761274065, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761274065, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761274065, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761274065, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761274065, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761274065, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761274065, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761274065, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761274065, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761274065, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761274065, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761274065, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761274065, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761274065, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761274065, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761274065, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761274065, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761274065, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761274065, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761274065, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761274065, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761274065, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761274065, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761274065, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761274065, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761274065, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761274065, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761274065, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761274065, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761274065, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761274065, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761274065, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761274065, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761274065, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761274065, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761274065, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761274065, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761274065, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761274065, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761274065, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761274065, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761274065, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761274065, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761274065, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761274065, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761274065, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761274065, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761274065, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761274065, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761274065, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761274065, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761274065, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761274065, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761274065, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761274065, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761276670, 0x00000100,  0x00000001,[monitor]login event:0  route:1932
+1761276670, 0x00000100,  0x00000001,[monitor]login event:1  route:1932
+1761276671, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761276671, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761276671, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761276671, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761276671, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761276671, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761276671, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761276671, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761276671, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761276671, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761276671, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761276671, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761276671, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761276671, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761276671, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761276671, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761276671, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761276671, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761276671, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761276671, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761276671, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761276671, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761276671, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761276671, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761276672, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761276672, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761276672, 0x00000100,  0x00000001,Download userprog.foid start.
+1761276672, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761276672, 0x00000100,  0x00000001,Download stprog.o start.
+1761276672, 0x00000100,  0x00000001,Download stprog.o finished.
+1761276672, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761276672, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761276672, 0x00000100,  0x00000001,Download symbol.sym start.
+1761276672, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761276672, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761276672, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761276672, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761276672, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761276672, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761276672, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761276672, 0x00000100,  0x00000001,Download modbus.foid start.
+1761276672, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761276672, 0x00000100,  0x00000001,Download canlink.foid start.
+1761276672, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761276672, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761276672, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761276672, 0x00000100,  0x00000001,Download ethip.foid start.
+1761276672, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761276672, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761276672, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761276672, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761276672, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761276672, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761276672, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761276672, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761276672, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761276672, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761276672, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761276672, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761276672, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761276672, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761276672, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761276672, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761276672, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761276672, 0x00000100,  0x00000001,[monitor]login event:2  route:1932
+1761276673, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761276673, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761276673, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761276673, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761276673, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761276673, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761276673, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761276673, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761276673, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761276673, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761276673, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761276673, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761276673, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761276673, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761276673, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761276673, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761276673, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761276673, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761276673, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761276673, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761276673, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761276673, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761276673, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761276673, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761276673, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761276673, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761276673, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761276673, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761276673, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761276673, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761276673, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761276673, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761276673, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761276673, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761276673, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761276673, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761276673, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761276673, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761276673, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761276673, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761276673, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761276673, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761276673, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761276673, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761276673, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761276673, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761276673, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761276673, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761276673, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761276673, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761276673, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761276673, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761276673, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761276673, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761276673, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761276673, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761276673, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761276673, 0x00000000,  0x00000002,Warning 5113 at 379(0x17B).
+1761276673, 0x00000000,  0x00000002,Warning 5113 at 1485(0x5CD).
+1761276673, 0x00000000,  0x00000002,Warning 5113 at 2591(0xA1F).
+1761276673, 0x00000000,  0x00000002,Warning 5113 at 3697(0xE71).
+1761276673, 0x00000000,  0x00000002,Warning 5113 at 4803(0x12C3).
+1761276673, 0x00000000,  0x00000002,Warning 5113 at 5909(0x1715).
+1761276673, 0x00000000,  0x00000002,Warning 5113 at 7015(0x1B67).
+1761276673, 0x00000000,  0x00000002,Warning 5113 at 8121(0x1FB9).
+1761276673, 0x00000000,  0x00000002,Warning:5113 eliminated at 379(0x17B).
+1761276673, 0x00000000,  0x00000002,Warning:5113 eliminated at 1485(0x5CD).
+1761276673, 0x00000000,  0x00000002,Warning:5113 eliminated at 2591(0xA1F).
+1761276673, 0x00000000,  0x00000002,Warning:5113 eliminated at 3697(0xE71).
+1761276673, 0x00000000,  0x00000002,Warning:5113 eliminated at 4803(0x12C3).
+1761276673, 0x00000000,  0x00000002,Warning:5113 eliminated at 5909(0x1715).
+1761276673, 0x00000000,  0x00000002,Warning:5113 eliminated at 7015(0x1B67).
+1761276673, 0x00000000,  0x00000002,Warning:5113 eliminated at 8121(0x1FB9).
+1761276673, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761276846, 0x00000100,  0x00000001,[monitor]login event:0  route:1912
+1761276846, 0x00000100,  0x00000001,[monitor]login event:1  route:1912
+1761276847, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761276847, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761276847, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761276847, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761276847, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761276847, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761276847, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761276847, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761276847, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761276847, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761276847, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761276847, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761276847, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761276847, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761276847, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761276847, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761276847, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761276847, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761276847, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761276847, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761276847, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761276847, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761276847, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761276847, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761276847, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761276847, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761276847, 0x00000100,  0x00000001,Download userprog.foid start.
+1761276847, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761276847, 0x00000100,  0x00000001,Download stprog.o start.
+1761276847, 0x00000100,  0x00000001,Download stprog.o finished.
+1761276847, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761276847, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761276847, 0x00000100,  0x00000001,Download symbol.sym start.
+1761276847, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761276847, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761276847, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761276847, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761276847, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761276847, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761276847, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761276847, 0x00000100,  0x00000001,Download modbus.foid start.
+1761276847, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761276847, 0x00000100,  0x00000001,Download canlink.foid start.
+1761276847, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761276847, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761276847, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761276848, 0x00000100,  0x00000001,Download ethip.foid start.
+1761276848, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761276848, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761276848, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761276848, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761276848, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761276848, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761276848, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761276848, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761276848, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761276848, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761276848, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761276848, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761276848, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761276848, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761276848, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761276848, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761276848, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761276848, 0x00000100,  0x00000001,[monitor]login event:2  route:1912
+1761276849, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761276849, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761276849, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761276849, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761276849, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761276849, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761276849, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761276849, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761276849, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761276849, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761276849, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761276849, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761276849, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761276849, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761276849, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761276849, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761276849, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761276849, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761276849, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761276849, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761276849, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761276849, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761276849, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761276849, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761276849, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761276849, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761276849, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761276849, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761276849, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761276849, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761276849, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761276849, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761276849, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761276849, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761276849, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761276849, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761276849, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761276849, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761276849, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761276849, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761276849, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761276849, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761276849, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761276849, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761276849, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761276849, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761276849, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761276849, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761276849, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761276849, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761276849, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761276849, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761276849, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761276849, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761276849, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761276849, 0x00000000,  0x00000002,Warning 5113 at 382(0x17E).
+1761276849, 0x00000000,  0x00000002,Warning 5113 at 1488(0x5D0).
+1761276849, 0x00000000,  0x00000002,Warning 5113 at 2594(0xA22).
+1761276849, 0x00000000,  0x00000002,Warning 5113 at 3700(0xE74).
+1761276849, 0x00000000,  0x00000002,Warning 5113 at 4806(0x12C6).
+1761276849, 0x00000000,  0x00000002,Warning 5113 at 5912(0x1718).
+1761276849, 0x00000000,  0x00000002,Warning 5113 at 7018(0x1B6A).
+1761276849, 0x00000000,  0x00000002,Warning 5113 at 8124(0x1FBC).
+1761276849, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761276849, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761276849, 0x00000000,  0x00000002,Warning:5113 eliminated at 382(0x17E).
+1761276849, 0x00000000,  0x00000002,Warning:5113 eliminated at 1488(0x5D0).
+1761276849, 0x00000000,  0x00000002,Warning:5113 eliminated at 2594(0xA22).
+1761276849, 0x00000000,  0x00000002,Warning:5113 eliminated at 3700(0xE74).
+1761276849, 0x00000000,  0x00000002,Warning:5113 eliminated at 4806(0x12C6).
+1761276849, 0x00000000,  0x00000002,Warning:5113 eliminated at 5912(0x1718).
+1761276849, 0x00000000,  0x00000002,Warning:5113 eliminated at 7018(0x1B6A).
+1761276849, 0x00000000,  0x00000002,Warning:5113 eliminated at 8124(0x1FBC).
+1761276849, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761279121, 0x00000100,  0x00000001,[monitor]login event:0  route:1636
+1761279121, 0x00000100,  0x00000001,[monitor]login event:1  route:1636
+1761279122, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761279122, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761279122, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761279122, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761279122, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761279122, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761279122, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761279122, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761279122, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761279122, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761279122, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761279122, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761279122, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761279122, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761279122, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761279122, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761279122, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761279122, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761279122, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761279122, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761279122, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761279122, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761279122, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761279122, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761279123, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761279123, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761279123, 0x00000100,  0x00000001,Download userprog.foid start.
+1761279123, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761279123, 0x00000100,  0x00000001,Download stprog.o start.
+1761279123, 0x00000100,  0x00000001,Download stprog.o finished.
+1761279123, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761279123, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761279123, 0x00000100,  0x00000001,Download symbol.sym start.
+1761279123, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761279123, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761279123, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761279123, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761279123, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761279123, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761279123, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761279123, 0x00000100,  0x00000001,Download modbus.foid start.
+1761279123, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761279123, 0x00000100,  0x00000001,Download canlink.foid start.
+1761279123, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761279123, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761279123, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761279123, 0x00000100,  0x00000001,Download ethip.foid start.
+1761279123, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761279123, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761279123, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761279123, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761279123, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761279123, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761279123, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761279123, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761279123, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761279123, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761279123, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761279123, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761279123, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761279123, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761279123, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761279123, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761279123, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761279123, 0x00000100,  0x00000001,[monitor]login event:2  route:1636
+1761279124, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761279124, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761279124, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761279124, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761279124, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761279124, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761279124, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761279124, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761279124, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761279124, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761279124, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761279124, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761279124, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761279124, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761279124, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761279124, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761279124, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761279124, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761279124, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761279124, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761279124, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761279124, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761279124, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761279124, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761279124, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761279124, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761279124, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761279124, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761279124, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761279124, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761279124, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761279124, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761279124, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761279124, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761279124, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761279124, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761279124, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761279124, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761279124, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761279124, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761279124, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761279124, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761279124, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761279124, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761279124, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761279124, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761279124, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761279124, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761279124, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761279124, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761279124, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761279124, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761279124, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761279124, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761279124, 0x00000000,  0x00000002,Warning 5113 at 587(0x24B).
+1761279124, 0x00000000,  0x00000002,Warning 5113 at 1693(0x69D).
+1761279124, 0x00000000,  0x00000002,Warning 5113 at 2799(0xAEF).
+1761279124, 0x00000000,  0x00000002,Warning 5113 at 3905(0xF41).
+1761279124, 0x00000000,  0x00000002,Warning 5113 at 5011(0x1393).
+1761279124, 0x00000000,  0x00000002,Warning 5113 at 6117(0x17E5).
+1761279124, 0x00000000,  0x00000002,Warning 5113 at 7223(0x1C37).
+1761279124, 0x00000000,  0x00000002,Warning 5113 at 8329(0x2089).
+1761279124, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761279124, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761279124, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761279124, 0x00000000,  0x00000002,Warning:5113 eliminated at 587(0x24B).
+1761279124, 0x00000000,  0x00000002,Warning:5113 eliminated at 1693(0x69D).
+1761279124, 0x00000000,  0x00000002,Warning:5113 eliminated at 2799(0xAEF).
+1761279124, 0x00000000,  0x00000002,Warning:5113 eliminated at 3905(0xF41).
+1761279124, 0x00000000,  0x00000002,Warning:5113 eliminated at 5011(0x1393).
+1761279124, 0x00000000,  0x00000002,Warning:5113 eliminated at 6117(0x17E5).
+1761279124, 0x00000000,  0x00000002,Warning:5113 eliminated at 7223(0x1C37).
+1761279124, 0x00000000,  0x00000002,Warning:5113 eliminated at 8329(0x2089).
+1761279124, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761279596, 0x00000100,  0x00000001,[monitor]login event:0  route:1936
+1761279596, 0x00000100,  0x00000001,[monitor]login event:1  route:1936
+1761279600, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761279600, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761279600, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761279600, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761279600, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761279600, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761279600, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761279600, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761279600, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761279600, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761279600, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761279600, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761279600, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761279600, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761279600, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761279600, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761279600, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761279600, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761279600, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761279600, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761279600, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761279600, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761279600, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761279600, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761279601, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761279601, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761279601, 0x00000100,  0x00000001,Download userprog.foid start.
+1761279601, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761279601, 0x00000100,  0x00000001,Download stprog.o start.
+1761279601, 0x00000100,  0x00000001,Download stprog.o finished.
+1761279601, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761279601, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761279601, 0x00000100,  0x00000001,Download symbol.sym start.
+1761279601, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761279601, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761279601, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761279601, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761279601, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761279601, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761279601, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761279601, 0x00000100,  0x00000001,Download modbus.foid start.
+1761279601, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761279601, 0x00000100,  0x00000001,Download canlink.foid start.
+1761279601, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761279601, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761279601, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761279601, 0x00000100,  0x00000001,Download ethip.foid start.
+1761279601, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761279601, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761279601, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761279601, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761279601, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761279601, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761279601, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761279601, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761279601, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761279601, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761279601, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761279601, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761279601, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761279601, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761279601, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761279601, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761279601, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761279601, 0x00000100,  0x00000001,[monitor]login event:2  route:1936
+1761279602, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761279602, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761279602, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761279602, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761279602, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761279602, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761279602, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761279602, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761279602, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761279602, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761279602, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761279602, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761279602, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761279602, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761279602, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761279602, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761279602, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761279602, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761279602, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761279602, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761279602, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761279602, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761279602, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761279602, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761279602, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761279602, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761279602, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761279602, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761279602, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761279602, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761279602, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761279602, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761279602, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761279602, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761279602, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761279602, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761279602, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761279602, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761279602, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761279602, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761279602, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761279602, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761279602, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761279602, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761279602, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761279602, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761279602, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761279602, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761279602, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761279602, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761279602, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761279602, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761279602, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761279602, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761279602, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761279602, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761279602, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761279602, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761279644, 0x00000100,  0x00000001,[monitor]login event:0  route:1904
+1761279644, 0x00000100,  0x00000001,[monitor]login event:1  route:1904
+1761279644, 0x00000100,  0x00000001,userprog online LOG_IN!!!.
+1761279644, 0x00000100,  0x00000001,Upload symbol.sym start.
+1761279644, 0x00000100,  0x00000001,Upload symbol.sym finished.
+1761279646, 0x00000100,  0x00000001,Upload userprog.foid start.
+1761279646, 0x00000100,  0x00000001,Upload userprog.foid finished.
+1761279646, 0x00000100,  0x00000001,Upload symbol.sym start.
+1761279646, 0x00000100,  0x00000001,Upload symbol.sym finished.
+1761279646, 0x00000100,  0x00000001,Upload stuserprog.o start.
+1761279646, 0x00000100,  0x00000001,Upload stuserprog.o finished.
+1761279655, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761279655, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761279656, 0x00000100,  0x00000001,Download userprog.foid start.
+1761279656, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761279656, 0x00000100,  0x00000001,Download stprog.o start.
+1761279656, 0x00000100,  0x00000001,Download stprog.o finished.
+1761279656, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761279656, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761279656, 0x00000100,  0x00000001,Download symbol.sym start.
+1761279656, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761279656, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761279656, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761279656, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761279656, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761279656, 0x00000100,  0x00000001,userprog online modify TRIGGER!!!.
+1761279656, 0x00000100,  0x00000001,userprog online datafile is OK.
+1761279656, 0x00000100,  0x00000001,userprog online checked OK.
+1761279656, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 2.
+1761279656, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761279656, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761279656, 0x00000700,  0x00000001,Hook ol 1/1: EthIPScanner: update cip config ret 0
+1761279656, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 2.
+1761279656, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 2.
+1761279656, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 2.
+1761279864, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761279864, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761279864, 0x00000100,  0x00000001,Download userprog.foid start.
+1761279864, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761279864, 0x00000100,  0x00000001,Download stprog.o start.
+1761279864, 0x00000100,  0x00000001,Download stprog.o finished.
+1761279864, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761279864, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761279864, 0x00000100,  0x00000001,Download symbol.sym start.
+1761279864, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761279864, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761279864, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761279864, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761279864, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761279864, 0x00000100,  0x00000001,userprog online modify TRIGGER!!!.
+1761279864, 0x00000100,  0x00000001,userprog online datafile is OK.
+1761279864, 0x00000100,  0x00000001,userprog online checked OK.
+1761279864, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 2.
+1761279864, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761279864, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761279864, 0x00000700,  0x00000001,Hook ol 1/1: EthIPScanner: update cip config ret 0
+1761279864, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 2.
+1761279864, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 2.
+1761279864, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 2.
+1761280197, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761280197, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761280197, 0x00000100,  0x00000001,Download userprog.foid start.
+1761280197, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761280197, 0x00000100,  0x00000001,Download stprog.o start.
+1761280197, 0x00000100,  0x00000001,Download stprog.o finished.
+1761280197, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761280197, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761280197, 0x00000100,  0x00000001,Download symbol.sym start.
+1761280197, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761280197, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761280197, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761280197, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761280197, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761280197, 0x00000100,  0x00000001,userprog online modify TRIGGER!!!.
+1761280197, 0x00000100,  0x00000001,userprog online datafile is OK.
+1761280197, 0x00000100,  0x00000001,userprog online checked OK.
+1761280197, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 2.
+1761280197, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761280197, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761280197, 0x00000700,  0x00000001,Hook ol 1/1: EthIPScanner: update cip config ret 0
+1761280197, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 2.
+1761280197, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 2.
+1761280197, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 2.
+1761280268, 0x00000100,  0x00000001,userprog online LOG_OUT!!!.
+1761280268, 0x00000100,  0x00000001,[monitor]login event:2  route:1904
+1761280275, 0x00000100,  0x00000001,[monitor]login event:0  route:2020
+1761280275, 0x00000100,  0x00000001,[monitor]login event:1  route:2020
+1761280276, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761280276, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761280276, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761280276, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761280276, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761280276, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761280276, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761280276, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761280276, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761280276, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761280276, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761280276, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761280276, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761280276, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761280276, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761280276, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761280276, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761280276, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761280276, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761280276, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761280276, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761280276, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761280276, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761280276, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761280276, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761280276, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761280276, 0x00000100,  0x00000001,Download userprog.foid start.
+1761280276, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761280276, 0x00000100,  0x00000001,Download stprog.o start.
+1761280276, 0x00000100,  0x00000001,Download stprog.o finished.
+1761280276, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761280276, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761280276, 0x00000100,  0x00000001,Download symbol.sym start.
+1761280276, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761280276, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761280276, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761280276, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761280276, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761280276, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761280276, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761280276, 0x00000100,  0x00000001,Download modbus.foid start.
+1761280276, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761280276, 0x00000100,  0x00000001,Download canlink.foid start.
+1761280276, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761280276, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761280276, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761280276, 0x00000100,  0x00000001,Download ethip.foid start.
+1761280276, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761280276, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761280276, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761280276, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761280276, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761280276, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761280276, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761280276, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761280276, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761280276, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761280276, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761280276, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761280276, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761280277, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761280277, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761280277, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761280277, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761280277, 0x00000100,  0x00000001,[monitor]login event:2  route:2020
+1761280277, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761280277, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761280277, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761280277, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761280277, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761280277, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761280277, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761280277, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761280277, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761280277, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761280277, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761280277, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761280277, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761280277, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761280277, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761280277, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761280277, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761280277, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761280277, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761280277, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761280277, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761280277, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761280277, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761280277, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761280277, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761280277, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761280277, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761280277, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761280277, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761280277, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761280277, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761280277, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761280277, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761280277, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761280277, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761280277, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761280277, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761280277, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761280277, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761280277, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761280277, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761280277, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761280277, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761280277, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761280277, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761280277, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761280277, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761280277, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761280277, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761280277, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761280277, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761280277, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761280277, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761280277, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761280277, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761280277, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761280277, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761280277, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761280424, 0x00000100,  0x00000001,[monitor]login event:0  route:1624
+1761280424, 0x00000100,  0x00000001,[monitor]login event:1  route:1624
+1761280425, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761280425, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761280425, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761280425, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761280425, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761280425, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761280425, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761280425, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761280425, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761280425, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761280425, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761280425, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761280425, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761280425, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761280425, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761280425, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761280425, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761280425, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761280425, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761280425, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761280425, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761280425, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761280425, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761280425, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761280425, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761280425, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761280425, 0x00000100,  0x00000001,Download userprog.foid start.
+1761280425, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761280425, 0x00000100,  0x00000001,Download stprog.o start.
+1761280425, 0x00000100,  0x00000001,Download stprog.o finished.
+1761280425, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761280425, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761280425, 0x00000100,  0x00000001,Download symbol.sym start.
+1761280425, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761280425, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761280425, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761280425, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761280425, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761280426, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761280426, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761280426, 0x00000100,  0x00000001,Download modbus.foid start.
+1761280426, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761280426, 0x00000100,  0x00000001,Download canlink.foid start.
+1761280426, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761280426, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761280426, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761280426, 0x00000100,  0x00000001,Download ethip.foid start.
+1761280426, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761280426, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761280426, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761280426, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761280426, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761280426, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761280426, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761280426, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761280426, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761280426, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761280426, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761280426, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761280426, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761280426, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761280426, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761280426, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761280426, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761280426, 0x00000100,  0x00000001,[monitor]login event:2  route:1624
+1761280426, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761280426, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761280426, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761280426, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761280426, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761280426, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761280426, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761280426, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761280426, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761280426, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761280426, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761280426, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761280426, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761280426, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761280426, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761280426, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761280426, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761280426, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761280426, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761280426, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761280426, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761280426, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761280426, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761280426, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761280426, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761280426, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761280426, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761280426, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761280426, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761280426, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761280426, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761280426, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761280426, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761280426, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761280426, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761280426, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761280426, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761280426, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761280426, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761280426, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761280426, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761280426, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761280426, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761280426, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761280426, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761280426, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761280426, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761280426, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761280426, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761280426, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761280426, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761280426, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761280426, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761280426, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761280426, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761280426, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761280426, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761280426, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761280449, 0x00000100,  0x00000001,[monitor]login event:0  route:2004
+1761280449, 0x00000100,  0x00000001,[monitor]login event:1  route:2004
+1761280450, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761280450, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761280450, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761280450, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761280450, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761280450, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761280450, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761280450, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761280450, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761280450, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761280450, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761280450, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761280450, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761280450, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761280450, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761280450, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761280450, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761280450, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761280450, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761280450, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761280450, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761280450, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761280450, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761280450, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761280451, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761280451, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761280451, 0x00000100,  0x00000001,Download userprog.foid start.
+1761280451, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761280451, 0x00000100,  0x00000001,Download stprog.o start.
+1761280451, 0x00000100,  0x00000001,Download stprog.o finished.
+1761280451, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761280451, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761280451, 0x00000100,  0x00000001,Download symbol.sym start.
+1761280451, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761280451, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761280451, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761280451, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761280451, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761280451, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761280451, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761280451, 0x00000100,  0x00000001,Download modbus.foid start.
+1761280451, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761280451, 0x00000100,  0x00000001,Download canlink.foid start.
+1761280451, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761280451, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761280451, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761280451, 0x00000100,  0x00000001,Download ethip.foid start.
+1761280451, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761280451, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761280451, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761280451, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761280451, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761280451, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761280451, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761280451, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761280451, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761280451, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761280451, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761280451, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761280451, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761280451, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761280451, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761280451, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761280451, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761280451, 0x00000100,  0x00000001,[monitor]login event:2  route:2004
+1761280452, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761280452, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761280452, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761280452, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761280452, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761280452, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761280452, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761280452, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761280452, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761280452, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761280452, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761280452, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761280452, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761280452, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761280452, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761280452, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761280452, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761280452, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761280452, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761280452, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761280452, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761280452, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761280452, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761280452, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761280452, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761280452, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761280452, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761280452, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761280452, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761280452, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761280452, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761280452, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761280452, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761280452, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761280452, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761280452, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761280452, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761280452, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761280452, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761280452, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761280452, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761280452, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761280452, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761280452, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761280452, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761280452, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761280452, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761280452, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761280452, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761280452, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761280452, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761280452, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761280452, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761280452, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761280452, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761280452, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761280452, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761280452, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761281098, 0x00000100,  0x00000001,[monitor]login event:0  route:1904
+1761281098, 0x00000100,  0x00000001,[monitor]login event:1  route:1904
+1761281162, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761281162, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761281162, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761281162, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761281162, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761281162, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761281162, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761281162, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761281162, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761281162, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761281162, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761281162, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761281162, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761281162, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761281162, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761281162, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761281162, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761281162, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761281162, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761281162, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761281162, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761281162, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761281162, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761281162, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761281162, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761281162, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761281163, 0x00000100,  0x00000001,Download userprog.foid start.
+1761281163, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761281163, 0x00000100,  0x00000001,Download stprog.o start.
+1761281163, 0x00000100,  0x00000001,Download stprog.o finished.
+1761281163, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761281163, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761281163, 0x00000100,  0x00000001,Download symbol.sym start.
+1761281163, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761281163, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761281163, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761281163, 0x00000100,  0x00000001,Download syscfg.foid start.
+1761281163, 0x00000100,  0x00000001,Download syscfg.foid finished.
+1761281163, 0x00000100,  0x00000001,Download ethercat.foid start.
+1761281163, 0x00000100,  0x00000001,Download ethercat.foid finished.
+1761281163, 0x00000100,  0x00000001,Download modbus.foid start.
+1761281163, 0x00000100,  0x00000001,Download modbus.foid finished.
+1761281163, 0x00000100,  0x00000001,Download canlink.foid start.
+1761281163, 0x00000100,  0x00000001,Download canlink.foid finished.
+1761281163, 0x00000100,  0x00000001,Download modcfg.foid start.
+1761281163, 0x00000100,  0x00000001,Download modcfg.foid finished.
+1761281163, 0x00000100,  0x00000001,Download ethip.foid start.
+1761281163, 0x00000100,  0x00000001,Download ethip.foid finished.
+1761281163, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761281163, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761281163, 0x00000100,  0x00000001,Download ecttrans.foid start.
+1761281163, 0x00000100,  0x00000001,Download ecttrans.foid finished.
+1761281163, 0x00000100,  0x00000001,Download dataLog.foid start.
+1761281163, 0x00000100,  0x00000001,Download dataLog.foid finished.
+1761281163, 0x00000100,  0x00000001,Download OpcUAServer.foid start.
+1761281163, 0x00000100,  0x00000001,Download OpcUAServer.foid finished.
+1761281163, 0x00000100,  0x00000001,Download sftpserver.foid start.
+1761281163, 0x00000100,  0x00000001,Download sftpserver.foid finished.
+1761281163, 0x00000100,  0x00000001,Download Ecam.foid start.
+1761281163, 0x00000100,  0x00000001,Download Ecam.foid finished.
+1761281163, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 3.
+1761281163, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 3.
+1761281163, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 3.
+1761281163, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 3.
+1761281163, 0x00000100,  0x00000001,[monitor]login event:2  route:1904
+1761281164, 0x00000100,  0x00000001,run status changed to RUN!!! because of control word.
+1761281164, 0x00000600,  0x00000001,EtherCAT: update ecat start.
+1761281164, 0x00000600,  0x00000001,EtherCAT: Start to get config data.
+1761281164, 0x00000600,  0x00000001,EtherCAT: Cycle time is 4000 us.
+1761281164, 0x00000600,  0x00000001,EtherCAT: There are 0 slave(s) configured.
+1761281164, 0x00000600,  0x00000001,EtherCAT: offset time is 0.500000 us.
+1761281164, 0x00000600,  0x00000001,EtherCAT: Get config data finished.
+1761281164, 0x00000601,  0x00000001,MC Axis:Start to get configure data
+1761281164, 0x00000601,  0x00000001,MC Axis:Finished! There are 8 axis(es)
+1761281164, 0x00000601,  0x00000001,MC Group:Finished! There are 0 axes group(s)
+1761281164, 0x00000700,  0x00000001,Update 1/11: EthIPScanner: Start updating.
+1761281164, 0x00000700,  0x00000001,EthIP Stask Info [Version: V1R2C1B21SPC0  Compile Time: Mar 24 2025]
+1761281164, 0x00000700,  0x00000001,Update 2/11: EthIPScanner: cancel thread done
+1761281164, 0x00000700,  0x00000001,Update 3/11: EthIPScanner: clear error done
+1761281164, 0x00000700,  0x00000001,Update 4/11: EthIPScanner: update iotagslist done
+1761281164, 0x00000700,  0x00000001,Update 5/11: EthIPScanner: update class3tagslist done
+1761281164, 0x00000700,  0x00000001,Update 6/11: EthIPScanner: update ucmmtagslist done
+1761281164, 0x00000700,  0x00000001,Update 7/11: EthIPScanner: update udtlist done
+1761281164, 0x00000700,  0x00000001,Update 8/11: EthIPScanner: update class3udt done
+1761281164, 0x00000700,  0x00000001,Update 9/11: EthIPScanner: update ucmmudt done
+1761281164, 0x00000700,  0x00000001,Update 10/11: EthIPScanner: update protocol_flag done
+1761281164, 0x00000700,  0x00000001,Update 11/11: EthIPScanner: End updating.
+1761281164, 0x00000700,  0x00000001,Update 1/10: EthIPAdapter: Start updating.
+1761281164, 0x00000700,  0x00000001,Update 2/10: EthIPAdapter: cancel thread done
+1761281164, 0x00000700,  0x00000001,Update 3/10: EthIPAdapter: clear error done
+1761281164, 0x00000700,  0x00000001,Update 4/10: EthIPAdapter: update iotagslist
+1761281164, 0x00000700,  0x00000001,Update 5/10: EthIPAdapter: update explicitlist done
+1761281164, 0x00000700,  0x00000001,Update 6/10: EthIPAdapter: update siotags done
+1761281164, 0x00000700,  0x00000001,Update 7/10: EthIPAdapter: update udtlist done
+1761281164, 0x00000700,  0x00000001,Update 8/10: EthIPAdapter: update explicit_udt done
+1761281164, 0x00000700,  0x00000001,Update 9/10: EthIPAdapter: update scanningtag done
+1761281164, 0x00000700,  0x00000001,Update 10/10: EthIPAdapter: update protocol_flag done
+1761281164, 0x00000700,  0x00000001,Update 11/10: EthIPAdapter: End updating.
+1761281164, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load begin.
+1761281164, 0x00000100,  0x00000001,[FirstRun]:Mem-Variables load finished.
+1761281164, 0x00000600,  0x00000001,EtherCAT: Received run command.
+1761281164, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 1.
+1761281164, 0x00000700,  0x00000001,Hook run 1/4: EthIPScanner: CMP_EVT_RUN
+1761281164, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761281164, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761281164, 0x00000700,  0x00000001,Hook run 2/4: EthIPScanner: update cip config ret 0
+1761281164, 0x00000700,  0x00000001,EipStackCt 1/2: EthIPScanner: Start create stack
+1761281164, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: bind eth index 0 ip: 0.
+1761281164, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: EtIPClaimHostIPAddress failed.
+1761281164, 0x00000700,  0x00000001,EipStackCt 2/2: EthIPScanner: End create stack
+1761281164, 0x00000700,  0x00000001,Hook run 3/4: EthIPScanner: create stack done
+1761281164, 0x00000700,  0x00000001,Hook run 4/4: EthIPScanner: create thread done
+1761281164, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 1.
+1761281164, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 1.
+1761281164, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 1.
+1761281164, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start running stack
+1761281164, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 4.
+1761281164, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 4.
+1761281164, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 4.
+1761281164, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 4.
+1761281164, 0x00000700,  0x00000001,ThreadRun 1/2: EthIPScanner: Start eventDeal thread
+1761281164, 0x00000600,  0x00000001,EtherCAT: Start to register master.
+1761281164, 0x00000600,  0x00000001,EtherCAT: Master Active
+1761281240, 0x00000100,  0x00000001,[monitor]login event:0  route:1908
+1761281240, 0x00000100,  0x00000001,[monitor]login event:1  route:1908
+1761281240, 0x00000100,  0x00000001,userprog online LOG_IN!!!.
+1761281240, 0x00000100,  0x00000001,Upload symbol.sym start.
+1761281240, 0x00000100,  0x00000001,Upload symbol.sym finished.
+1761281242, 0x00000100,  0x00000001,Upload userprog.foid start.
+1761281242, 0x00000100,  0x00000001,Upload userprog.foid finished.
+1761281242, 0x00000100,  0x00000001,Upload symbol.sym start.
+1761281242, 0x00000100,  0x00000001,Upload symbol.sym finished.
+1761281242, 0x00000100,  0x00000001,Upload stuserprog.o start.
+1761281242, 0x00000100,  0x00000001,Upload stuserprog.o finished.
+1761281289, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761281289, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761281289, 0x00000100,  0x00000001,Download userprog.foid start.
+1761281289, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761281290, 0x00000100,  0x00000001,Download stprog.o start.
+1761281290, 0x00000100,  0x00000001,Download stprog.o finished.
+1761281290, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761281290, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761281290, 0x00000100,  0x00000001,Download symbol.sym start.
+1761281290, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761281290, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761281290, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761281290, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761281290, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761281290, 0x00000100,  0x00000001,userprog online modify TRIGGER!!!.
+1761281290, 0x00000100,  0x00000001,userprog online datafile is OK.
+1761281290, 0x00000100,  0x00000001,userprog online checked OK.
+1761281290, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 2.
+1761281290, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761281290, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761281290, 0x00000700,  0x00000001,Hook ol 1/1: EthIPScanner: update cip config ret 0
+1761281290, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 2.
+1761281290, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 2.
+1761281290, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 2.
+1761281368, 0x00000100,  0x00000001,Download project\project.hcpp start.
+1761281368, 0x00000100,  0x00000001,Download project\project.hcpp finished.
+1761281368, 0x00000100,  0x00000001,Download userprog.foid start.
+1761281368, 0x00000100,  0x00000001,Download userprog.foid finished.
+1761281368, 0x00000100,  0x00000001,Download stprog.o start.
+1761281368, 0x00000100,  0x00000001,Download stprog.o finished.
+1761281368, 0x00000100,  0x00000001,Download stuserprog.o start.
+1761281368, 0x00000100,  0x00000001,Download stuserprog.o finished.
+1761281368, 0x00000100,  0x00000001,Download symbol.sym start.
+1761281368, 0x00000100,  0x00000001,Download symbol.sym finished.
+1761281368, 0x00000100,  0x00000001,Download varsinfo.foid start.
+1761281368, 0x00000100,  0x00000001,Download varsinfo.foid finished.
+1761281368, 0x00000100,  0x00000001,Download EIPIns.foid start.
+1761281368, 0x00000100,  0x00000001,Download EIPIns.foid finished.
+1761281368, 0x00000100,  0x00000001,userprog online modify TRIGGER!!!.
+1761281368, 0x00000100,  0x00000001,userprog online datafile is OK.
+1761281368, 0x00000100,  0x00000001,userprog online checked OK.
+1761281368, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 2.
+1761281368, 0x00000700,  0x00000001,Update 1/2: EthIPScanner: update cipudtlist done
+1761281368, 0x00000700,  0x00000001,Update 2/2: EthIPScanner: update cipexplicittag done
+1761281368, 0x00000700,  0x00000001,Hook ol 1/1: EthIPScanner: update cip config ret 0
+1761281368, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 2.
+1761281368, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 2.
+1761281368, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 2.
+1761287537, 0x00000100,  0x00000001,Power off (simu)!
+1761287537, 0x00000100,  0x00000001,run status changed to STOP!!! because of control word.
+1761287537, 0x00000600,  0x00000001,EtherCAT: Received stop command.
+1761287537, 0x00000700,  0x00000001,Hook 1/2: EthIPScanner: Start hook event 0.
+1761287537, 0x00000700,  0x00000001,Hook stop 1/3: EthIPScanner: CMP_EVT_STOP
+1761287537, 0x00000700,  0x00000001,Hook stop 2/3: EthIPScanner: cancel thread done
+1761287537, 0x00000700,  0x00000001,Hook stop 3/3: EthIPScanner: clear error done
+1761287537, 0x00000700,  0x00000001,Hook 2/2: EthIPScanner: End hook event 0.
+1761287537, 0x00000700,  0x00000001,Hook 1/2: EthIPAdapter: Start hook event 0.
+1761287537, 0x00000700,  0x00000001,Hook stop 1/5: EthIPAdapter: CMP_EVT_STOP
+1761287537, 0x00000700,  0x00000001,Hook stop 2/5: EthIPAdapter: cancel thread done
+1761287537, 0x00000700,  0x00000001,EipStackDlt 1/3: EthIPScanner: Start delete stack
+1761287537, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: end eventDeal thread
+1761287537, 0x00000700,  0x00000001,ThreadRun 2/2: EthIPScanner: End running stack
+1761287537, 0x00000600,  0x00000001,EtherCAT: allowblock run_cmd_1=0
+1761287537, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: EtIPScannerStop done
+1761287537, 0x00000600,  0x00000001,ECT_STATE_RUN_2_IDLE 0
+1761287537, 0x00000700,  0x00000001,EipStackDlt 2/3: EthIPScanner: eventcallback_Thread task stop
+1761287537, 0x00000600,  0x00000001,EtherCAT: Stop master
+1761287537, 0x00000600,  0x00000001,EtherCAT: Stop master finished.
+1761287537, 0x00000700,  0x00000001,EipStackDlt 3/3: EthIPScanner: End delete stack
+1761287537, 0x00000700,  0x00000001,Hook stop 3/5: EthIPAdapter: delete stack done
+1761287537, 0x00000700,  0x00000001,Hook stop 4/5: EthIPAdapter: clear adapter error done
+1761287537, 0x00000700,  0x00000001,Hook stop 5/5: EthIPAdapter: clear scanner error done
+1761287537, 0x00000700,  0x00000001,Hook 2/2: EthIPAdapter: End hook event 0.
+1761287537, 0x00000100,  0x00000001,[Powerdown]:Run switch to stop time: 25ms.
+1761287537, 0x00000100,  0x00000001,[Powerdown]:Variables data save begin.
+1761287537, 0x00000100,  0x00000001,[Powerdown]:Variables data save finished.
+1761287537, 0x00000100,  0x00000001,Project Quit!
+1761287537, 0x00000100,  0x00000001,[Powerdown]:Run switch to stop time: 0ms.
+1761287537, 0x00000100,  0x00000001,[Powerdown]:Variables data save begin.
+1761287537, 0x00000100,  0x00000001,[Powerdown]:Variables data save finished.

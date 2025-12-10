@@ -1,0 +1,16 @@
+AutoShop
+	1
+PROG
+ROOT
+	FILE	MAIN.LD
+	FILE	SBR_伺服控制.LD
+	FILE	SBR_摆盘运算.LD
+	FILE	SBR_气缸控制.LD
+FB
+ROOT
+	FILE	FB_A1电磁阀控制.FB
+	FILE	FB_B3托盘XY计算.FB
+	FILE	FB_C1电机轴控制.FB
+	FILE	FB_C6轴位置存取.FB
+FC
+ROOT
